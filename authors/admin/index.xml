@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HomePage</title>
+    <title>Homepage</title>
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>HomePage</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <description>Homepage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Jianyu Wu 2020</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>HomePage</title>
+      <title>Homepage</title>
       <link>/authors/admin/</link>
     </image>
     
